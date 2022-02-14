@@ -1,0 +1,13 @@
+.bar-color1 {
+    background-image: linear-gradient(to right, rgb(0, 0, 0), #200F21, #4C0027);
+}
+.bar-color2 {
+    background-image: linear-gradient(to right,rgb(0, 0, 0), #200F21);
+}
+.sidebar-color {
+    color: white;
+}
+.sidebar {
+    height: 93vh;
+    padding-bottom: 7%;
+}
